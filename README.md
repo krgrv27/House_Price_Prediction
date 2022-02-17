@@ -1,1 +1,2 @@
-# House_Price_Prediction
+- House_Price_Prediction
+- Predicted final price of residential homes using Lasso and Ridge regression
